@@ -361,3 +361,7 @@ section:last-child {
     animation-delay: 0, 2.5s;
 }
 
+#piechart{
+display:flex;
+justify-content:center;
+}
